@@ -6,15 +6,12 @@ wait..
 
 Two dimensions
 # install
-<code>
-git clone https://github.com/AL-AlamySploit/AL-Alamy-styling
-</code>
-<code>
-cd AL-Alamy-styling
-</code>
-<code>
-sh install.sh
-</code>
+<pre><span class="pl-c"></span> #command </span>
+$ git clone https://github.com/AL-AlamySploit/AL-Alamy-styling
+
+$ cd AL-Alamy-styling
+
+$ sh install.sh</span></pre>
 
 # Video explanation
 wait..
