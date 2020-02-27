@@ -2,7 +2,7 @@
 
 #downloading a file
 
-wait..
+https://gsurl.in/ijbd
 
 Two dimensions
 # install
