@@ -7,7 +7,7 @@ def menu():
            print("")
            os.system('clear')
            print('\033[1;31m                          By ----} Mahmoud McDoda')
-           print(' \033[1;33m                   << --------ProveYourSelF-------- >>')
+           print(' \033[1;33m                   << --------AL-AlamySploit-------- >>')
            print("")
            print('\033[1;37m                               -------------')
            print('\033[1;37m                             (---------------)')
@@ -40,7 +40,7 @@ def menu():
                 O = getpass('\033[1;32mPassword \033[1;33m: ')
                 print("")
                 print("")
-                if D=='prove' and O=='yourself':
+                if D=='AL-Alamy' and O=='A7Y':
                    os.system('clear')
                    print("")
                    print("")
