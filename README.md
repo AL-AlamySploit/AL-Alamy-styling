@@ -15,7 +15,7 @@ https://gsurl.in/ijbd
 # Video explanation
 wait..
 # Channel
-https://studio.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
-<h1> 
-  A7Y_Team
-</h1>
+https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
+
+
+A7Y Team (^_^)
