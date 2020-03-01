@@ -1,4 +1,4 @@
-echo "[The code By With AL-Alamy]"
+echo "[The code By With Update]"
 printf "[+] witing to Down pkg ..\n"
 pkg update
 pkg install python
