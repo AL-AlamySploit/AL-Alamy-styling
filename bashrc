@@ -19,6 +19,7 @@ cmatrix -C blue -s
 clear
 ##################
 echo -e  $red "FB:ALAlamy.Tube                 $blueTelegram:AL_Alamy"
+cowsay -f eyes A7Y_Team | lolcat
 toilet -f big AL-Alamy |lolcat
 echo -e $red"Youtube:$white https://youtube.com/ALAlamyTube"
 echo -e $green"Github: $white https://github.com/AL-AalmySplit"
@@ -45,3 +46,4 @@ alias r='rmdir'
 alias t='touch'
 alias e='echo'
 alias B='bash'
+#>>>>>>>>>>>>>>>>>>>>>
