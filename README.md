@@ -13,7 +13,7 @@ $ sh install.sh</span></pre>
 https://gsurl.in/ijbd
 
 # Video explanation
-wait..
+https://youtu.be/5SlUBmWFBa4
 # Channel
 https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
 
