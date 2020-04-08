@@ -1,5 +1,5 @@
 # AL-Alamy-styling
-
+Change the look and order of the Termux program
 # install
 <pre><span class="pl-c"></span> #command </span>
 $ git clone https://github.com/AL-AlamySploit/AL-Alamy-styling
