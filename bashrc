@@ -1,8 +1,11 @@
+#/data/data/com.termux/files
+#AL-Alamy-styling v1.0
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         command_not_found_handle() {
                 /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
         }
 fi
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 clear
 red='\e[1;31m'
 green='\e[1;32m'
@@ -12,12 +15,12 @@ cyan='\e[1;36m'
 white='\e[1;37m'
 yellow='\e[1;33m'
 clear
-##################
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 
-##################
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 cmatrix -C blue -s
 clear
-##################
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 echo -e  $red "FB:ALAlamy.Tube                 $blueTelegram:AL_Alamy"
 cowsay -f eyes A7Y_Team | lolcat
 toilet -f big AL-Alamy |lolcat
@@ -25,10 +28,13 @@ toilet -f big AL-Alamy |lolcat
 #echo -e $green"Github: $white https://github.com/AL-AalmySplit"
 echo -e $blue"<<<<<<<<<<<<<<<<<<<< $green($green  T$red E$yellow R$red M$yellow U$green X  $green)$blue >>>>>>>>>>>>>>>>>>>>>"
 echo
+#PS1='
+#\e[0;32m╭────\e[0;31m[\e[0m root\e[0;32m⚔\e[0AL-Alamy# \w \e[0;31m]\e[0;32m
+#╰────➲ '
 PS1='\[\033[01;31m\]┌───\033[1;31m[\033[1;31mroot\033[01;32m@\033[1;34mAL-Alamy\033[01;31m]──────[\e[1;31mC\e[1;32mH\e[1;34mE]─────\[\033[01;34m\][\[\033[01;32m\]\T\[\033[01;34m\]]\[\033[01;34m\]────────────\[\033[01;31m\]¦─┐
 \[\033[01;34m\]
 └─[ \[\033[01;32m\]\W\[\033[01;34m\] ]─>> '
-##################
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 alias x='exit'
 alias c='clear'
 alias p='python'
@@ -46,4 +52,4 @@ alias r='rmdir'
 alias t='touch'
 alias e='echo'
 alias B='bash'
-#>>>>>>>>>>>>>>>>>>>>>
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
