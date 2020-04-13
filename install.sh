@@ -1,5 +1,8 @@
+#/data/data/com.termux/files
+#AL-Alamy-styling v1.0.0
 clear
 A7Y='\033[01;32m'
+os.system('/data/data/com.termux/~')
 echo
 echo "${A7Y} █████╗ ██╗       █████╗ ██╗      █████╗ ███╗   ███╗██╗   ██╗";
 echo "${A7Y}██╔══██╗██║      ██╔══██╗██║     ██╔══██╗████╗ ████║╚██╗ ██╔╝";
