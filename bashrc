@@ -1,5 +1,5 @@
 #/data/data/com.termux/files
-#AL-Alamy-styling v1.0
+#AL-Alamy-styling v1.0.0
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         command_not_found_handle() {
                 /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
