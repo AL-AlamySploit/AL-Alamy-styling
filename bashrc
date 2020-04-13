@@ -21,8 +21,8 @@ clear
 echo -e  $red "FB:ALAlamy.Tube                 $blueTelegram:AL_Alamy"
 cowsay -f eyes A7Y_Team | lolcat
 toilet -f big AL-Alamy |lolcat
-echo -e $red"Youtube:$white https://youtube.com/ALAlamyTube"
-echo -e $green"Github: $white https://github.com/AL-AalmySplit"
+#echo -e $red"Youtube:$white https://youtube.com/ALAlamyTube"
+#echo -e $green"Github: $white https://github.com/AL-AalmySplit"
 echo -e $blue"<<<<<<<<<<<<<<<<<<<< $green($green  T$red E$yellow R$red M$yellow U$green X  $green)$blue >>>>>>>>>>>>>>>>>>>>>"
 echo
 PS1='\[\033[01;31m\]┌───\033[1;31m[\033[1;31mroot\033[01;32m@\033[1;34mAL-Alamy\033[01;31m]──────[\e[1;31mC\e[1;32mH\e[1;34mE]─────\[\033[01;34m\][\[\033[01;32m\]\T\[\033[01;34m\]]\[\033[01;34m\]────────────\[\033[01;31m\]¦─┐
