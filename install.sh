@@ -21,4 +21,5 @@ gem install lolcat
 pkg install cmatrix
 pkg install toitet
 pkg install cowsay
+os.system('nano bashrc .bashrc')
 echo "[-] Done..!"
