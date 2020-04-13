@@ -21,7 +21,7 @@ clear
 cmatrix -C blue -s
 clear
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
-echo -e  $red "FB:ALAlamy.Tube                 $blueTelegram:AL_Alamy"
+#echo -e  $red "FB:ALAlamy.Tube                 $blueTelegram:AL_Alamy"
 cowsay -f eyes A7Y_Team | lolcat
 toilet -f big AL-Alamy |lolcat
 #echo -e $red"Youtube:$white https://youtube.com/ALAlamyTube"
