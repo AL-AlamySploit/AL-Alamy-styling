@@ -1,5 +1,27 @@
 # AL-Alamy-styling
 Change the look and order of the Termux program
+
+                
+                         __________
+                      .~#########%%;~.
+                     /############%%;`\
+                    /######/~\/~\%%;,;,\
+                   |#######\    /;;;;.,.|
+                   |#########\/%;;;;;.,.|
+          XX       |##/~~\####%;;;/~~\;,|       XX
+        XX..X      |#|  o  \##%;/  o  |.|      X..XX
+      XX.....X     |##\____/##%;\____/.,|     X.....XX
+ XXXXX.....XX      \#########/\;;;;;;,, /      XX.....XXXXX
+X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
+X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X
+X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
+ X# \.X        @#%,.@   Infect v1.1      @#%,.@        
+                @#%,.@              @#%,.@          
+                  @#%,.@          @#%,.@            
+                     @#%,.@      @#%,.@             
+                       @#%.,@  @#%,.@              
+                         @Al-Alamy@
+
 # install
 <pre><span class="pl-c"></span> #command </span>
 $ git clone https://github.com/AL-AlamySploit/AL-Alamy-styling
