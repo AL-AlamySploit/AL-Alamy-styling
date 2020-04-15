@@ -1,5 +1,5 @@
 #/data/data/com.termux/files
-#AL-Alamy-styling v1.0.0
+#AL-Alamy-styling v2.0
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         command_not_found_handle() {
                 /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
@@ -22,11 +22,34 @@ cmatrix -C blue -s
 clear
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 #echo -e  $red "FB:ALAlamy.Tube                 $blueTelegram:AL_Alamy"
-cowsay -f eyes A7Y_Team | lolcat
-toilet -f big AL-Alamy |lolcat
+#cowsay -f eyes A7Y_Team | lolcat
+#toilet -f big AL-Alamy |lolcat
 #echo -e $red"Youtube:$white https://youtube.com/ALAlamyTube"
 #echo -e $green"Github: $white https://github.com/AL-AalmySplit"
-echo -e $blue"<<<<<<<<<<<<<<<<<<<< $green($green  T$red E$yellow R$red M$yellow U$green X  $green)$blue >>>>>>>>>>>>>>>>>>>>>"
+#echo -e $blue"<<<<<<<<<<<<<<<<<<<< $green($green  T$red E$yellow R$red M$yellow U$green X  $green)$blue >>>>>>>>>>>>>>>>>>>>>"
+echo '
+                
+                         __________
+                      .~#########%%;~.
+                     /############%%;`\
+                    /######/~\/~\%%;,;,\
+                   |#######\    /;;;;.,.|
+                   |#########\/%;;;;;.,.|
+          XX       |##/~~\####%;;;/~~\;,|       XX
+        XX..X      |#|  o  \##%;/  o  |.|      X..XX
+      XX.....X     |##\____/##%;\____/.,|     X.....XX
+ XXXXX.....XX      \#########/\;;;;;;,, /      XX.....XXXXX
+X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
+X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X
+X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
+ X# \.X        @#%,.@   Infect v1.1      @#%,.@        
+                @#%,.@              @#%,.@          
+                  @#%,.@          @#%,.@            
+                     @#%,.@      @#%,.@             
+                       @#%.,@  @#%,.@              
+                          @Al-Alamy@
+'|lolcat
+echo " " 
 echo
 #PS1='
 #\e[0;32m╭────\e[0;31m[\e[0m root\e[0;32m⚔\e[0AL-Alamy# \w \e[0;31m]\e[0;32m
