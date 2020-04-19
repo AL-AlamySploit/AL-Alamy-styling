@@ -22,8 +22,11 @@ cmatrix -C blue -s
 clear
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 #echo -e  $red "FB:ALAlamy.Tube                 $blueTelegram:AL_Alamy"
-#cowsay -f eyes A7Y_Team | lolcat
+cowsay -f eyes A7Y_Team | lolcat
 #toilet -f big AL-Alamy |lolcat
+toilet -f standcrd "Al-Alamy" -F gay
+sleep 1.0
+clear
 #echo -e $red"Youtube:$white https://youtube.com/ALAlamyTube"
 #echo -e $green"Github: $white https://github.com/AL-AalmySplit"
 #echo -e $blue"<<<<<<<<<<<<<<<<<<<< $green($green  T$red E$yellow R$red M$yellow U$green X  $green)$blue >>>>>>>>>>>>>>>>>>>>>"
