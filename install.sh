@@ -1,5 +1,5 @@
 #/data/data/com.termux/files
-#AL-Alamy-styling V 1.0.0
+#AL-Alamy-styling V 1.1
 #Channel
 #https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
 # A7Y Team
@@ -14,6 +14,7 @@ echo "${A7Y}██║  ██║███████╗ ██║  ██║█
 echo "${A7Y}╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝";
 echo
 echo "[The code By With Update]"
+termux-open-url https://youtu.be/5SlUBmWFBa4
 printf "[+] witing to Down pkg ..\n"
 pkg update
 pkg install python
