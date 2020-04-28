@@ -1,5 +1,6 @@
 # AL-Alamy-styling
 Change the look and order of the Termux program
+
 <code>
                
                              __________
