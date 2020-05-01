@@ -22,7 +22,12 @@ https://gsurl.in/ijbd
 
 https://youtu.be/5SlUBmWFBa4
 
-**support me**
-<p><a href="https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ" rel="nofollow"><img src="https://camo.githubusercontent.com/cc79473d3c09ab1dcee9ae1a74d05fb7e7b57f62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73756263726962652d596f75547562652d7265642e737667" data-canonical-src="https://img.shields.io/badge/subcribe-YouTube-red.svg" style="max-width:100%;"></a></p>
-
-A7Y Team (^_^)
+                                                      Follow Me On
+                                                              
+<p align="center">
+  <a href="https://youtube.com/ALAlamyTube" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/fc12f940aee0e71daa0ad0812c9bd5e761ab0692/68747470733a2f2f7777772e69636f6e7364622e636f6d2f69636f6e732f707265766965772f626c61636b2f796f75747562652d342d78786c2e706e67" width="40" height="40" data-canonical-src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" style="max-width:100%;">
+  </a>
+  <a href="https://www.instagram.com/al_alamy7">
+    <img src="https://camo.githubusercontent.com/78d82bdef1c93f7c535b978fdad44ec890c113ba/687474703a2f2f636c69706172742d6c6962726172792e636f6d2f696d616765735f6b2f696e7374616772616d2d706e672d7472616e73706172656e742f696e7374616772616d2d706e672d7472616e73706172656e742d31362e706e67" width="40" height="40" data-canonical-src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-16.png" style="max-width:100%;">
+</a></p>
