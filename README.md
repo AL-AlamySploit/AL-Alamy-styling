@@ -19,8 +19,7 @@ https://gsurl.in/ijbd
 
 
 **Demo**
-<p><a href="https://youtu.be/5SlUBmWFBa4" rel="nofollow"><img src="https://i9.ytimg.com/vi/5SlUBmWFBa4/maxresdefault.jpg?time=1588549198122&sqp=CKSqvfUF&rs=AOn4CLCVsOM8KvWBfzh26u19ejJamrh41w" alt="des" style="max-width:100%;"></a></p>
-  
+https://youtu.be/5SlUBmWFBa4
   
  #                                                       Follow Me On
                                                               
