@@ -15,13 +15,13 @@ echo "${A7Y}╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚
 echo
 echo "[The code By With Update]"
 termux-open-url https://youtu.be/5SlUBmWFBa4
-printf "[+] witing to Down pkg ..\n"
+printf "$A7Y[+] witing to Down pkg ..\n"
 pkg update
-pkg install python
+pkg upgrade
 pkg install figlet
 pkg install ruby
 gem install lolcat
 pkg install cmatrix
-pkg install toitet
+pkg install toilet
 pkg install cowsay
-echo "[-] Done..!"
+echo "$A7Y[-] Done..!"
