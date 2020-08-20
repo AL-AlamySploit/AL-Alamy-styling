@@ -21,7 +21,7 @@ clear
 cmatrix -C blue -s
 clear
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
-#echo -e  $red "FB:ALAlamy.Tube                 $blueTelegram:AL_Alamy"
+echo -e  $red "FB:ALAlamy.Tube                 $blueTelegram:ALAlamyTube"
 cowsay -f eyes Al-Alamy | lolcat
 #toilet -f big AL-Alamy |lolcat
 toilet -f standcrd "Al-Alamy" -F gay
