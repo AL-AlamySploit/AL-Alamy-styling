@@ -13,7 +13,7 @@ echo "${A7Y}██╔══██║██║╚════╝██╔══�
 echo "${A7Y}██║  ██║███████╗ ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║   ██║";
 echo "${A7Y}╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝";
 echo
-echo "[The code By With Update]"
+echo "$A7Y[The code By With Update]"
 #termux-open-url https://youtu.be/5SlUBmWFBa4
 termux-open-url https://www.youtube.com/channel/UCm-UlQ6ygk4jkNfgFzlc2LA
 printf "$A7Y[+] witing to Down pkg ..\n"
@@ -25,4 +25,4 @@ gem install lolcat
 pkg install cmatrix
 pkg install toilet
 pkg install cowsay
-echo "$A7Y[-] Done..!"
+echo "$A7Y[+] Done..!"
